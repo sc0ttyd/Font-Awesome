@@ -1,0 +1,10 @@
+{
+  "name": "sc0ttyd/Font-Awesome",
+  "description": "Font Awesome, the iconic font designed for use with Twitter Bootstrap.",
+  "version": "3.2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sc0ttyd/Font-Awesome.git"
+  },
+  "main": "css/font-awesome.css"
+}
